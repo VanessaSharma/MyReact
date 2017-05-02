@@ -1,0 +1,24 @@
+{
+  "name": "myreact",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanessaSharma/MyReact.git"
+  },
+  "keywords": [
+    "typescript",
+    "react",
+    "webpack"
+  ],
+  "author": "Vanessa Palacios Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanessaSharma/MyReact/issues"
+  },
+  "homepage": "https://github.com/VanessaSharma/MyReact#readme"
+}
